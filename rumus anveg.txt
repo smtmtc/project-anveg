@@ -1,0 +1,13 @@
+bagaimana menghitung kerapatan seedling dan sapling?
+
+caranya ialah menghitung luas keseluruhan/luas tutupan ajuk 1 pohon.
+
+input :
+nama
+tinggi (cm)
+diameter (cm)
+keliling(cm)
+Luas Bidang Datar (LBD) (m2)
+Kanopi (%)
+
+rumus:
